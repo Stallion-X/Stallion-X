@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=Stallion-X&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stallion-X&theme=dark&layout=compact)
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![](https://activity-graph.herokuapp.com/graph?username=Stallion-X&theme=github)
