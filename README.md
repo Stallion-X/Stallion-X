@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Stallion-X&show_icons=true&theme=dark&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stallion-X&theme=dark&layout=compact&exclude_repo=interceptor,digwebs,unlock-music,Chao)
 ![Visitor Count](https://profile-counter.glitch.me/Stallion-X/count.svg)
+<div align="center">
+  <img src="https://api.githubtrends.io/user/svg/Stallion-X/langs?time_range=all_time&group=other&theme=classic" alt="Most Used Languages" width="300"/>
+  <img src="https://api.githubtrends.io/user/svg/Stallion-X/repos?time_range=all_time&group=other&theme=classic" alt="Most Contributed Repositories" width="300" />
+</div>
 ![](https://activity-graph.herokuapp.com/graph?username=Stallion-X&theme=github)
